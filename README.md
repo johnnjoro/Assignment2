@@ -7,14 +7,23 @@ Welcome to my portfolio website! This repository hosts the code and assets for m
 I've created this website to provide a glimpse into my work and experience as a web developer. Please feel free to explore and reach out if you have any questions or opportunities for collaboration.
 
 Table of Contents
+
 Website Features
+
 Technologies Used
+
 Setup and Deployment
+
 Usage
+
 Contributing
+
 License
+
 Website Features
+
 Homepage: A brief introduction and a snapshot of my most recent projects.
+
 About: Details about my background, skills, and interests.
 Portfolio: A showcase of my projects, complete with descriptions and links.
 Contact: A contact form for easy communication.

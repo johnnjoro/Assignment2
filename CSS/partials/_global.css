@@ -50,7 +50,6 @@
 p.para{
     color: var(--text-color);
     font: normal 500 16px/16px var(--roboto);
-    padding: 10px;
 }
 .font-roboto{
     font-family: var(--roboto);
@@ -64,7 +63,4 @@ p.para{
     box-shadow: var(--box-shadow);
     z-index: 999;
     transition: background 1s ease;
-}
-p{
-    line-sp 
 }

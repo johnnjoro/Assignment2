@@ -1,5 +1,7 @@
 Portfolio Website README
+
 Introduction
+
 Welcome to my portfolio website! This repository hosts the code and assets for my personal website, showcasing my skills, projects, and professional journey.
 
 I've created this website to provide a glimpse into my work and experience as a web developer. Please feel free to explore and reach out if you have any questions or opportunities for collaboration.
@@ -33,6 +35,7 @@ Customize the content to reflect your own skills and projects.
 Deploy the website to a hosting service of your choice (e.g., Netlify, GitHub Pages, Heroku, etc.).
 Ensure that your domain is set up correctly if you're using a custom domain.
 Regularly update your portfolio with new projects and experiences.
+
 Usage
 Feel free to use this code as a template for your own portfolio website. Replace the placeholder content with your own skills, projects, and experiences. You can also add your own features, customize the styling, and adapt the website to your specific needs.
 

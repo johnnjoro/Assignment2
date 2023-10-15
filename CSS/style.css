@@ -2,7 +2,10 @@
 @import url(./fonts.css);
 
 /*Css Variables*/
-@import url(./partials/variables.css);
+@import url(./partials/_variable.css);
+
+/* Global STyling */
+@import url(./partials/_global.css);
 
 /*Start navigation*/
 .header_area .main-menu .navbar .navbar-brand{
@@ -30,3 +33,35 @@
     background-clip: text;
 }
 /*End Navigation*/
+
+/* Banner Area */
+.site-main .side-banner{
+    background: url(../IMG/banner/home-banner.png) no-repeat 0% 50%;
+}
+.site-main .side-banner .site-title h3{
+    padding-top: 35%;
+    font-weight: 500;
+}
+.site-main .side-banner .site-title h3::after{
+    content: "";
+    height: 2px;
+    width: 18vw;
+    background: black;
+    display: inline-block;
+    margin-left: 5%;
+    transform: translateY(-10px);
+}
+.site-main .side-banner .site-title h1{
+    font-size: 5rem;
+}
+.site-main .side-banner .site-title h4{
+    font-size: 1.5rem;
+
+}
+.site-main .side-banner .banner-image>img{
+    padding: 7rem 0;
+    width: 90rem;
+
+}
+
+/* End Banner Area */

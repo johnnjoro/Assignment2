@@ -7,7 +7,11 @@
 /* Global STyling */
 @import url(./partials/_global.css);
 
+
 /*Start navigation*/
+.header_area{
+    height: 100px;
+}
 .header_area .main-menu .navbar .navbar-brand{
     padding: 0 2rem 0 5rem;
 }
@@ -41,6 +45,7 @@
 .site-main .side-banner .site-title h3{
     padding-top: 35%;
     font-weight: 500;
+    color: whitesmoke;
 }
 .site-main .side-banner .site-title h3::after{
     content: "";
@@ -52,11 +57,12 @@
     transform: translateY(-10px);
 }
 .site-main .side-banner .site-title h1{
+    color: whitesmoke;
     font-size: 5rem;
 }
 .site-main .side-banner .site-title h4{
     font-size: 1.5rem;
-
+    color: whitesmoke;
 }
 .site-main .side-banner .banner-image>img{
     padding: 7rem 0;
@@ -76,6 +82,9 @@
 }
 .site-main .about-area .about-title .paragraph>p{
     padding: .2rem 0;
+}
+.site-main .side-banner{
+    background: url(../IMG/subscribe-bg.png);
 }
 
 /* End About Area */
@@ -99,5 +108,69 @@
 }
 .site-main >.services-area .services:hover{
     box-shadow: var(--box-shadow);
+    
 }
+
 /* End Services Area */
+
+/* End Subscribe Me Area */
+.site-main .subscribe-us-area .subscribe{
+    background: url(../IMG/subscribe-bg.png);
+    padding: 10rem 0;
+    margin: 3rem auto;
+}
+.site-main .subscribe-us-area .subscribe .subscribe-title h4{
+    font: normal 700 30px/30px var(--roboto);
+    color: whitesmoke;
+}
+.site-main .subscribe-us-area .subscribe .subscribe-title p{
+    color: whitesmoke;
+    padding: 1rem 4rem;
+}
+.site-main .subscribe-us-area .subscribe form .input-textbox input{
+    width: 400px;
+    padding: 1.5rem 1rem;
+    border: 1px solid whitesmoke;
+    background: transparent;
+    color: white;
+    font: normal 500 17px/20px var(--roboto);
+
+}
+.site-main .subscribe-us-area .subscribe form .input-textbox input::placeholder{
+    color: whitesmoke;
+}
+.site-main .subscribe-us-area .subscribe form .btn-submit button{
+    background: whitesmoke;
+    color: #000;
+    padding: .7rem 2rem;
+}
+/* End Subscribe Me Area */
+
+/* Footer Area */
+footer.footer-area{
+    padding: 5rem 0;
+    background: url(../IMG/footer-bg.png) no repeat;
+}
+footer .footer-area .social h5{
+    font: normal 500 23px/30px var(--roboto);
+
+}
+footer.footer-area .social a>i{
+    font-size: 50px;
+    padding: 2rem;
+    color: var(--primary-color);
+}
+footer.footer-area .social a:hover>.top{
+    color: #3b5998;
+}
+footer.footer-area .social a:hover>.top1{
+    color: #FD1D1D;
+}
+footer.footer-area .social a:hover>.top2{
+    color: red;
+}
+footer.footer-area .social a:hover>.top3{
+    color: #00acee;
+}
+
+/* End Footer Area */

@@ -10,12 +10,17 @@ I've created this website to provide a glimpse into my work and experience as a 
 Homepage: A brief introduction and a snapshot of my most recent projects.
 
 About: Details about my background, skills, and interests.
+
 Portfolio: A showcase of my projects, complete with descriptions and links.
+
 Contact: A contact form for easy communication.
-Blog (optional): A blog section where I share insights, tutorials, or personal thoughts.
+
 Responsive Design: The website is fully responsive, ensuring a consistent user experience across devices.
+
 Technologies Used
+
 HTML5, CSS3 for structuring and styling.
+
 JavaScript for interactivity.
 
 Setup and Deployment

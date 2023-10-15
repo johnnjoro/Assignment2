@@ -140,9 +140,14 @@
     color: whitesmoke;
 }
 .site-main .subscribe-us-area .subscribe form .btn-submit button{
-    background: whitesmoke;
-    color: #000;
+    background: url('/IMG/subscribe-bg.png');
+    border: white  3px solid;
+    color: white;
     padding: .7rem 2rem;
+    transition: box-shadow .6s ease;
+}
+.site-main .subscribe-us-area .subscribe form .btn-submit button:hover{
+    box-shadow: var(--box-shadow);
 }
 /* End Subscribe Me Area */
 
@@ -161,7 +166,7 @@ footer.footer-area .social a>i{
     color: var(--primary-color);
 }
 footer.footer-area .social a:hover>.top{
-    color: #3b5998;
+    color: black;
 }
 footer.footer-area .social a:hover>.top1{
     color: #FD1D1D;

@@ -28,9 +28,11 @@ Ensure that your domain is set up correctly if you're using a custom domain.
 Regularly update your portfolio with new projects and experiences.
 
 Usage
+
 Feel free to use this code as a template for your own portfolio website. Replace the placeholder content with your own skills, projects, and experiences. You can also add your own features, customize the styling, and adapt the website to your specific needs.
 
 Contributing
+
 If you'd like to contribute to this project or have suggestions for improvements, please open an issue or create a pull request. I'm open to collaborations and appreciate any help in making this portfolio website even better.
 
 Thank you for visiting my portfolio website and taking the time to explore my work. I hope you find it informative and engaging. If you have any questions or would like to get in touch, please use the contact form provided.

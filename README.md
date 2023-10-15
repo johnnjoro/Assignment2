@@ -23,7 +23,10 @@ HTML5, CSS3 for structuring and styling.
 
 JavaScript for interactivity.
 
+
 Setup and Deployment
+
+
 
 Clone this repository to your local machine.
 Install the required dependencies if applicable.

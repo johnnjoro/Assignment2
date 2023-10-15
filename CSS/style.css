@@ -12,14 +12,18 @@
 .header_area{
     height: 100px;
 }
-.header_area .main-menu .navbar .navbar-brand{
-    padding: 0 2rem 0 5rem;
+
+h6{
+    font: normal 20 45px/20px proxima;
+    color: var(--title-color);
+    letter-spacing: 20px;
+    
 }
 .header_area .main-menu .navbar{
-    padding: 1rem 20rem;
+    padding: 1rem 6rem;
 }
 .header_area .main-menu .nav-item .nav-link{
-    font: normal 500 15px/10px var(--roboto);
+    font: normal 500 20px/20px verdana;
     text-transform: uppercase;
     padding: 1.7rem;
     color: var(--title-color);
@@ -155,10 +159,6 @@
 footer.footer-area{
     padding: 5rem 0;
     background: url(../IMG/footer-bg.png) no repeat;
-}
-footer .footer-area .social h5{
-    font: normal 500 23px/30px var(--roboto);
-
 }
 footer.footer-area .social a>i{
     font-size: 50px;
